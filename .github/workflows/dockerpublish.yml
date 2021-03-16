@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKERHUB_USER: KeenWill
+  DOCKERHUB_USER: williamgoeller
   IMAGE_NAME: ocaml-docker 
 
 jobs:
